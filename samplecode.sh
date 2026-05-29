@@ -1,1 +1,1 @@
-echo "This is  demo code"
+echo "This is demo code"
